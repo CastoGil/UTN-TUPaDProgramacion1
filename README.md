@@ -39,6 +39,3 @@ El objetivo es aplicar estructuras secuenciales: lectura de datos, operaciones a
 10. **Promedio de tres números**  
     Calcula el promedio de tres números ingresados.
 
-
-```bash
-python Tp1.py
