@@ -1,9 +1,23 @@
 # UTN-TUPaDProgramacion1
 
-## 📌 Descripción
+# 01 — Trabajo Colaborativo (TP1)
 
-Este script contiene la resolución de **10 ejercicios** de introducción a la programación en Python, correspondientes a la **Unidad 1 - Práctica 1**.  
-El objetivo es aplicar estructuras secuenciales: lectura de datos, operaciones aritméticas básicas y salida por pantalla, reforzando el uso de variables y operadores.
+**Cátedra:** Programación 1 — TUP (UTN)  
+**Unidad:** Introducción a Python (entrada/salida, variables, operadores, `for`, módulos básicos)
+
+## 📂 Estructura
+- Un único archivo: **`tp1_t.py`**
+- Contiene los **10 ejercicios** del TP, separados por comentarios: `# 1)`, `# 2)`, …, `# 10)`.
+
+> Tip (VS Code): buscá `# 1)` / `# 2)` … con **Ctrl+F** para saltar a cada bloque.
+
+---
+
+## ▶️ Cómo ejecutar
+- Ejecutar **todo el TP**:
+  ```bash
+  python tp1_t.py
+
 
 ---
 
