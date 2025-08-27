@@ -39,5 +39,3 @@ elif hemisferio == "S":
     else:
         hemisferio_Sur_Estacion = "Primavera"
     print(f"En el hemisferio sur es {hemisferio_Sur_Estacion}")
-
-
