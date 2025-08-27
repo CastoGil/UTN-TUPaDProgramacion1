@@ -1,5 +1,3 @@
-# UTN-TUPaDProgramacion1
-
 # 01 — Trabajo Colaborativo (TP1)
 
 **Cátedra:** Programación 1 — TUP (UTN)  
