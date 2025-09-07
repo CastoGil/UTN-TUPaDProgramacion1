@@ -9,4 +9,6 @@ while num>0:
     invertir_num= invertir_num*10 + digito
     num= num //10
 
+if n<0: 
+    invertir_num=-invertir_num
 print(f"el numero invertido es {invertir_num}")
