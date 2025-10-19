@@ -1,0 +1,7 @@
+Manzana,100.0,100
+Banana,200.0,150
+Naranja,300.0,80
+Limon,110.0,10
+pera,250.0,10
+KIWI,280.0,20
+Coco,10.0,20
